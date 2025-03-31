@@ -33,7 +33,7 @@ Edit the `config.lua` file to customize:
 ## Commands
 
 - `/reloadtaser` or `/rt` - Reload TASER cartridges
-- `/chargetaser` or `/ct` - Recharge TASER battery
+- `/chargetaser` - Recharge TASER battery
 - `/taserwebhook` - Test webhook connection
 
 ## Dependencies
