@@ -1,6 +1,6 @@
 Config = {}
 
-Config.WebhookURL = "https://discordapp.com/api/webhooks/1356064642715095222/JontlmKcCT49ni8xx4kFudzeBfjNlfu9lkihn78qxhWTMzyO3r4G2jzt1O4wYluLK5a1"
+Config.WebhookURL = ""
 Config.WebhookName = "TASER X2 System"
 Config.WebhookColor = 3447003
 Config.BatteryDrain = 5
