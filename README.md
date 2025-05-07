@@ -1,3 +1,5 @@
+![](https://img.shields.io/github/downloads/JaspDevelopment/Taser-System/total?logo=github)
+
 # TASER X2 System for FiveM
 
 A realistic TASER X2 implementation for FiveM servers, featuring cartridge management, battery levels, and detailed logging capabilities.
